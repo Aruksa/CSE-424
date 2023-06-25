@@ -11,7 +11,7 @@ Project title:
 Convolutional Auto Encoder for image deNoising
 
 Group Number:
-2
+21
 
 Group Members:
 19201079 Mohammad Muhibur Rahman
