@@ -2,16 +2,16 @@ Link to unlisted YouTube video:
 https://youtu.be/yEeUVH3yB9s
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1qbWmoZaoJLAmF2gJQ7dloByzyxjpzRkCiV5dVcCV5cg/edit?usp=sharing
+https://docs.google.com/presentation/d/19nY4n21xWOUN8KB7vjz13ujq1id4Mye57XSIxPR6cOQ/edit?usp=sharing
 
 Paper title:
-Deep Color Consistent Network for Low-Light Image Enhancement
+A Hybrid CNN for Image Denoising 
 
 Link to the paper:
-https://doi.org/10.1109/CVPR52688.2022.00194
+https://doi.org/10.37965/jait.2022.0101
 
 Group Number:
-3
+21
 
 Individual Submitter:
-19201079 Mohammad Muhibur Rahman
+19201067 Anushua Ahmed 
